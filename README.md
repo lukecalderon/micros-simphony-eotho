@@ -112,11 +112,11 @@ There is no clear way that a single discount setting in Simphony (on the version
 That should leave you with a working discount!
 
 ### Screenshots
-50% Discount Rule:
+50% Discount Rule - 2 Guests:
 
 ![](https://i.imgur.com/H7NWy9F.png)
 
 
-£10 Discount Rule:
+£10 Discount Rule - 1 Guest:
 
 ![](https://i.imgur.com/1ZNUQU4.png)
