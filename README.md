@@ -29,3 +29,12 @@ There is no clear way that a single discount setting in Simphony (on the version
 ### Configure the discount
 1. Create a discount at Enterprise or Property Level (a discount set at enterprise level will inherit to property)
 ![](https://i.imgur.com/KqnHcKc.png)
+2. Set the following under the **General** tab
+    - Configuration Section
+        - Activation Type - Manual
+        - Percent - 0
+        - Max Amount - 0
+        - Enabled - Ticked
+        - Tax Class - All Taxes
+    - Trigger Section
+        - Trigger MI Group - Use Discount Itemizers
