@@ -113,7 +113,10 @@ That should leave you with a working discount!
 
 ### Screenshots
 50% Discount Rule:
+
 ![](https://i.imgur.com/H7NWy9F.png)
 
+
 £10 Discount Rule:
+
 ![](https://i.imgur.com/1ZNUQU4.png)
