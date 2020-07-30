@@ -28,4 +28,4 @@ There is no clear way that a single discount setting in Simphony (on the version
 ## Installing the Extension Application & Linking to a Page
 ### Configure the discount
 1. Create a discount at Enterprise or Property Level (a discount set at enterprise level will inherit to property)
-!(https://i.imgur.com/KqnHcKc.png)
+![](https://i.imgur.com/KqnHcKc.png)
