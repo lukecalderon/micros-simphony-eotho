@@ -33,19 +33,16 @@ There is no clear way that a single discount setting in Simphony (on the version
 
 
 2. Under the **Options** Tab, set the following settings
-    1. **Printing Options**
+    - **Printing Options**
         - Suggested options: 8, 20, 21, 23, 24, 28, 54
 
 !()[https://i.imgur.com/bYLAF4u.png]
-    
-    2. **Interface Options**
+    - **Interface Options**
         - Interface Link: Your PMS Interface link (if you do not post to a PMS, leave this blank)
         - Options: 29, 31, 38
 
 !()[https://i.imgur.com/nAwCJZ1.png]
-
-
-    3. **Ops Behaviour**
+    - **Ops Behaviour**
         - Amount Options Section: Option 2 (Amount Required) - Ticked
         - General Options Section: Option 48 (Item is Shareable) - Ticked
 
