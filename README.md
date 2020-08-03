@@ -29,24 +29,28 @@ There is no clear way that a single discount setting in Simphony (on the version
 ### Configure the tender media
 1. Create a new tender media at enterprise level, and take note of the object number (in our case, it is 8015)
 
-!()[https://i.imgur.com/xNxOOcz.png]
+![](https://i.imgur.com/xNxOOcz.png)
 
 
 2. Under the **Options** Tab, set the following settings
-    - **Printing Options**
+    1. **Printing Options**
         - Suggested options: 8, 20, 21, 23, 24, 28, 54
 
-!()[https://i.imgur.com/bYLAF4u.png]
-    - **Interface Options**
+![](https://i.imgur.com/bYLAF4u.png)
+
+
+    2. **Interface Options**
         - Interface Link: Your PMS Interface link (if you do not post to a PMS, leave this blank)
         - Options: 29, 31, 38
 
-!()[https://i.imgur.com/nAwCJZ1.png]
-    - **Ops Behaviour**
+![](https://i.imgur.com/nAwCJZ1.png)
+
+
+    3. **Ops Behaviour**
         - Amount Options Section: Option 2 (Amount Required) - Ticked
         - General Options Section: Option 48 (Item is Shareable) - Ticked
 
-!()[https://i.imgur.com/5vqOXgq.png]
+![](https://i.imgur.com/5vqOXgq.png)
 
 
 3. **SAVE**
