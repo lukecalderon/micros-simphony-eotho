@@ -33,20 +33,20 @@ There is no clear way that a single discount setting in Simphony (on the version
 
 
 2. Under the **Options** Tab, set the following settings
-    1. **Printing Options**
+    - **Printing Options**
         - Suggested options: 8, 20, 21, 23, 24, 28, 54
 
 ![](https://i.imgur.com/bYLAF4u.png)
 
 
-    2. **Interface Options**
+    - **Interface Options**
         - Interface Link: Your PMS Interface link (if you do not post to a PMS, leave this blank)
         - Options: 29, 31, 38
 
 ![](https://i.imgur.com/nAwCJZ1.png)
 
 
-    3. **Ops Behaviour**
+    - **Ops Behaviour**
         - Amount Options Section: Option 2 (Amount Required) - Ticked
         - General Options Section: Option 48 (Item is Shareable) - Ticked
 
@@ -62,24 +62,24 @@ There is no clear way that a single discount setting in Simphony (on the version
 2. Click the **New** button at the top of the screen to create a new Extension Applicaiton, and then create it as follows:
     - Name: EOTHO_Discount
     - Description: EOTHO_Discount
-!()[https://i.imgur.com/w7JARsg.png]
+![](https://i.imgur.com/w7JARsg.png)
 
 3. Double click on the Extension Application, and then under the **General** tab, click **Insert Application Content**
-!()[https://i.imgur.com/KtLYBGM.png]
+![](https://i.imgur.com/KtLYBGM.png)
 
 4. Configure the file as follows:
     - ZoneableKey: EOTHO
     - Description: Anything Useful
-!()[https://i.imgur.com/gBXoRwi.png]
+![](https://i.imgur.com/gBXoRwi.png)
 
 5. Set the **Option Bits** on the file (click the ... button, then enable option 2), and set the **Disk File Name** to **EOTHO.isl**
-!()[https://i.imgur.com/8Sdszyc.png]
+![](https://i.imgur.com/8Sdszyc.png)
 
 6. Double Click on the EOTHO file, and then set the following
     - Content Type: 19 - Sim Script
     - File Name Origin: EOTHO.isl
     - Content: Paste the contents of EOTHO.isl from this repo
-!()[https://i.imgur.com/szLRHfW.png]
+![](https://i.imgur.com/szLRHfW.png)
 
 7. **SAVE**
 
@@ -90,7 +90,7 @@ There is no clear way that a single discount setting in Simphony (on the version
     - Legend: Name of the button (I used ***Eat Out to Help Out Discount***)
     - Type: Function / Sim Inquite
     - Arguments: EOTHO_Discount:1
-!()[https://i.imgur.com/j9OYEQ8.png]
+![](https://i.imgur.com/j9OYEQ8.png)
 
 2. **SAVE**
 
